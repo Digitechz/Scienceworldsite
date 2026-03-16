@@ -1,0 +1,1 @@
+# TODO: Increase Timeline Images Brightness\n\n- [ ] Step 1: Edit test/css/style.css - reduce .timeline-overlay opacity from 0.8 to 0.4\n- [ ] Step 2: Verify change in browser (refresh test/index.html, scroll to timeline)\n- [ ] Step 3: Complete task
